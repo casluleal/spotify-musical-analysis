@@ -11,8 +11,7 @@ COLS = {
     'master_metadata_album_album_name': 'album_name',
     'spotify_track_uri': 'spotify_track_uri',
     'reason_start': 'reason_start',
-    'reason_end': 'reason_end',
-    'skipped': 'track_skipped'
+    'reason_end': 'reason_end'
 }
 
 def read_files(directory: str) -> pd.DataFrame:
@@ -39,6 +38,6 @@ df_only_tracks = df[
 
 df_only_tracks = df_only_tracks.rename(columns=COLS)
 
-df_only_tracks.to_csv('consolidated_spotify_data.csv')
+df_only_tracks.to_csv('consolidated_spotify_data.csv', index=False)
 
 print('Consolidated data saved!')
