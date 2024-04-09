@@ -1,7 +1,8 @@
 import os
 import pandas as pd
 
-FILES_DIRECTORY = 'Spotify data/2023-08-30'
+# FILES_DIRECTORY = 'Spotify data/2023-08-30'
+FILES_DIRECTORY = 'Spotify data/2024-03-25'
 COLS = {
     'ts': 'timestamp_play',
     'platform': 'platform',
@@ -38,6 +39,6 @@ df_only_tracks = df[
 
 df_only_tracks = df_only_tracks.rename(columns=COLS)
 
-df_only_tracks.to_csv('consolidated_spotify_data.csv', index=False)
+df_only_tracks.to_csv('consolidated_spotify_data_2024.csv', index=False)
 
 print('Consolidated data saved!')
