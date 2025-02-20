@@ -36,6 +36,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="Assets/tableau-public-logo.png" alt="Logo" width="auto" height="50">
+  </a>
+</div>
+
+</br>
+
 [![Tableau Public screenshot](Dashboard.png)](https://public.tableau.com/views/MySpotifyAnalysis_17393181873530/MySpotifyAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **You can access the dashboard available in [Tableau Public here](https://public.tableau.com/views/MySpotifyAnalysis_17393181873530/MySpotifyAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).**
