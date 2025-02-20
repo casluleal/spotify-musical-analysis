@@ -8,6 +8,12 @@
     <img src="Assets/Spotify_logo_with_text.svg.png" alt="Logo" width="auto" height="100">
   </a>
 
+  </br>
+
+  <a href="https://github.com/github_username/repo_name">
+    <img src="Assets/tableau-public-logo.png" alt="Logo" width="auto" height="50">
+  </a>
+
 <h3 align="center">My Musical Analysis - Spotify</h3>
 
   <p align="center">
@@ -37,8 +43,6 @@
 ## About The Project
 
 [![Tableau Public screenshot](Dashboard.png)](https://public.tableau.com/views/MySpotifyAnalysis_17393181873530/MySpotifyAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-![Bla](https://public.tableau.com/app/assets/tableau-public-logo-rgb-CiQ9h6A3.svg)
 
 **You can access the dashboard available in [Tableau Public here](https://public.tableau.com/views/MySpotifyAnalysis_17393181873530/MySpotifyAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).**
 
