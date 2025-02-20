@@ -4,14 +4,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="Assets/Spotify_logo_with_text.svg.png" alt="Logo" width="auto" height="100">
-  </a>
-
-  </br>
-
-  <a href="https://github.com/github_username/repo_name">
-    <img src="Assets/tableau-public-logo.png" alt="Logo" width="auto" height="50">
+  <a href="https://www.spotify.com">
+    <img src="Assets/Spotify_logo_with_text.svg.png" alt="Spotify logo" width="auto" height="100">
   </a>
 
 <h3 align="center">My Musical Analysis - Spotify</h3>
